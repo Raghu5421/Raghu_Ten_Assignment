@@ -1,5 +1,4 @@
 
-# 🛠️ Inventory Management API
 
 A Django REST framework-based API for managing inventory, member bookings, and cancellations. This project allows members to book items from the inventory with booking limits and cancellation capabilities.
 
